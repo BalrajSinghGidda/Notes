@@ -72,6 +72,8 @@
 
 ## HTML
 
+### Some usable tags
+
 - `<i>` tag- Italicizes text
 - `<meta>` tag- provides additional information
   - name
@@ -91,3 +93,61 @@
 
 you can insert images in html by using the `<img>` tag.
 Eg:- `<img src="Image URL" ... attributes list>`.
+
+### Tables
+
+making a table requires `<table>` tag, as well as `<tr>` and `<td>` tags.
+Eg:-
+
+```html
+<table border="1">
+<tr>
+<td>new</td>
+<td>new</td>
+<td>new</td>
+</tr>
+<tr>
+<td>new</td>
+<td>new</td>
+<td>new</td>
+</tr>
+```
+
+It shows up like this:
+
+| new | new |
+| --- | --- |
+| new | new |
+| new | new |
+### Lists
+
+collection of the data in ordered or unordered fashion.
+
+types:
+- `<ol>` or ordered list
+- `<ul>` or unordered list
+- `<dl>` or definition list
+
+Eg:
+```html
+<ul>
+<li>new1</li>
+<li>new2</li>
+<li>new3</li>
+</ul>
+
+<ol>
+<li>mew1</li>
+<li>mew2</li>
+<li>mew3</li>
+</ol>
+
+<dl>
+<dt>HTML</dt>
+<dd>It stands for Hypertext Markup language</dd>
+</dl>
+```
+
+### Linking documents
+
+we use `<a href>` tag to link web-pages together.
