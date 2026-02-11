@@ -1,5 +1,19 @@
 # ***WT Lecture***
 
+<!--toc:start-->
+- [***WT Lecture***](#wt-lecture)
+  - [Different Server-side languages](#different-server-side-languages)
+    - [Ruby](#ruby)
+    - [Java](#java)
+    - [Golang](#golang)
+    - [C# (C Sharp)](#c-c-sharp)
+  - [Client-side v/s Server-side](#client-side-vs-server-side)
+    - [Client-side Scripting](#client-side-scripting)
+    - [Server-side Scripting](#server-side-scripting)
+  - [HTML](#html)
+    - [Comments](#comments)
+<!--toc:end-->
+
 ## Different Server-side languages
 
 ### Ruby
@@ -56,3 +70,24 @@
 - Used to retrieve and generate dynamic pages.
 - Used to download plugins.
 
+## HTML
+
+- `<i>` tag- Italicizes text
+- `<meta>` tag- provides additional information
+  - name
+  - description
+  - date
+  - refresh
+  - redirect
+  - cookies
+  - author name
+  - char set
+
+### Comments
+
+`<!-- Comment -->`
+
+### Insert Images
+
+you can insert images in html by using the `<img>` tag.
+Eg:- `<img src="Image URL" ... attributes list>`.
