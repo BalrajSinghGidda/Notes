@@ -15,8 +15,8 @@
               "state": {
                 "file": "OS.canvas",
                 "viewState": {
-                  "x": 9284.0234375,
-                  "y": 19.533203125,
+                  "x": 9815.1015625,
+                  "y": 485.48828125,
                   "zoom": 0
                 }
               },
@@ -200,9 +200,11 @@
   },
   "active": "18f01031d1007b47",
   "lastOpenFiles": [
+    "Round Robbing CPU Scheduling.md",
+    "2026-02-16.md",
+    "OS.canvas",
     "Charts making.excalidraw.md",
     "SRTF.svg",
-    "OS.canvas",
     "Charts making.excalidraw.png",
     "WT.md",
     "Memory Queue.svg",
