@@ -11,14 +11,17 @@
             "id": "18f01031d1007b47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "WT.md",
-                "mode": "source",
-                "source": false
+                "file": "OS.canvas",
+                "viewState": {
+                  "x": 9284.0234375,
+                  "y": 19.533203125,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "WT"
+              "icon": "lucide-layout-dashboard",
+              "title": "OS"
             }
           }
         ]
@@ -197,10 +200,14 @@
   },
   "active": "18f01031d1007b47",
   "lastOpenFiles": [
-    "WT.md~",
+    "Charts making.excalidraw.md",
+    "SRTF.svg",
     "OS.canvas",
-    "DevTools.md",
+    "Charts making.excalidraw.png",
     "WT.md",
+    "Memory Queue.svg",
+    "WT.md~",
+    "DevTools.md",
     "DBMS.excalidraw.md",
     "software-architecture.excalidrawlib",
     "Untitled-2026-01-27-1234.excalidraw",
