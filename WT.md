@@ -151,3 +151,7 @@ Eg:
 ### Linking documents
 
 we use `<a href>` tag to link web-pages together.
+
+## CSS
+
+Cascading Style sheets, known as css, simplify the process of making website presentable. It changes the look and feel part of a webpage. Using CSS, you can control the color of the text, the style of the fonts, and the spacing between the paragraphs, how columns are sized and made out, what background images or colors are used, etc.
