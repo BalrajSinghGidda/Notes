@@ -12,6 +12,7 @@
     - [Server-side Scripting](#server-side-scripting)
   - [HTML](#html)
     - [Comments](#comments)
+    - [Insert images](#)
 <!--toc:end-->
 
 ## Different Server-side languages
@@ -155,3 +156,23 @@ we use `<a href>` tag to link web-pages together.
 ## CSS
 
 Cascading Style sheets, known as css, simplify the process of making website presentable. It changes the look and feel part of a webpage. Using CSS, you can control the color of the text, the style of the fonts, and the spacing between the paragraphs, how columns are sized and made out, what background images or colors are used, etc.
+
+### CSS
+
+CSS deals with different style rules that are interpreted by the browser and then are applied to the corresponding elements in your document.
+
+A style group is made of 3 parts:
+- selector:- is an HTML tag in which the style will be applied. This could be any tag, like body tag or head tag.
+- property:- It is a type of attribute of the HTML tag. Put simply, all the HTML attributes are converted into CSS properties. They could be colour, properties, etc.
+- value:- These are assigned to the properties, for eg: colour property can have either "#red" or "#f1f1f1".
+
+You can define the selectors in different ways:
+- type selector: this is 
+- Universal selector.
+- Descendant selector: suppose you want to apply a style rule to an element only when it is inside a particular element.
+- class selectors: all the elements having that class.
+
+### types of CSS
+
+U can use style attributes in line the HTML.
+This will apply to that element only.
