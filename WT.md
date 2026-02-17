@@ -176,3 +176,5 @@ You can define the selectors in different ways:
 
 U can use style attributes in line the HTML.
 This will apply to that element only.
+
+Link : the link element can be used to include an external stylesheet to your HTML.

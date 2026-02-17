@@ -25,14 +25,15 @@
             "id": "5fa9666b8845628f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "WT.md",
-                "mode": "source",
-                "source": false
+                "aFile": "WT.md",
+                "bFile": "WT.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "WT"
+              "icon": "git-pull-request",
+              "title": "Diff: WT"
             }
           }
         ],
@@ -127,7 +128,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "WT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -160,7 +159,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "WT.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -198,7 +196,7 @@
   },
   "active": "5fa9666b8845628f",
   "lastOpenFiles": [
-    "Drawing 2026-02-17 13.04.12.excalidraw.md",
-    "WT.md"
+    "WT.md",
+    "Drawing 2026-02-17 13.04.12.excalidraw.md"
   ]
 }
