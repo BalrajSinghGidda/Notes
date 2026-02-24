@@ -11,17 +11,12 @@
             "id": "dce6e3836fb6e57c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "OS.canvas",
-                "viewState": {
-                  "x": 10558.180023002446,
-                  "y": 493.39687499999997,
-                  "zoom": -0.09416242692205642
-                }
+                "file": "DBMS.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "OS"
+              "icon": "excalidraw-icon",
+              "title": "DBMS.excalidraw"
             }
           }
         ]
@@ -200,8 +195,8 @@
   },
   "active": "dce6e3836fb6e57c",
   "lastOpenFiles": [
-    "WT.md",
     "OS.canvas",
+    "WT.md",
     "Round Robbing CPU Scheduling.md",
     "2026-02-16.md",
     "Charts making.excalidraw.md",
