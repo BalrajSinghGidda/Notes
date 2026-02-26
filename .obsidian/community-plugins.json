@@ -4,5 +4,7 @@
   "obsidian-style-settings",
   "obsidian-advanced-slides",
   "highlightr-plugin",
-  "advanced-canvas"
+  "advanced-canvas",
+  "obsidian-kanban",
+  "obsidian-linter"
 ]

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a34d0c349c523fe1",
+        "id": "3002c83676131889",
         "type": "tabs",
         "children": [
           {
-            "id": "dce6e3836fb6e57c",
+            "id": "cff7e8fd77dde6c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DBMS.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DBMS.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2368593856559e8f",
@@ -190,22 +187,23 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dce6e3836fb6e57c",
+  "active": "cff7e8fd77dde6c2",
   "lastOpenFiles": [
-    "OS.canvas",
-    "WT.md",
     "Round Robbing CPU Scheduling.md",
+    "OS.canvas",
+    "DevTools.md",
+    "DBMS.excalidraw.md",
+    "WT.md",
     "2026-02-16.md",
     "Charts making.excalidraw.md",
     "SRTF.svg",
     "Charts making.excalidraw.png",
     "Memory Queue.svg",
     "WT.md~",
-    "DevTools.md",
-    "DBMS.excalidraw.md",
     "software-architecture.excalidrawlib",
     "Untitled-2026-01-27-1234.excalidraw",
     "Drawing 2026-02-02 15.48.43.excalidraw.md",
