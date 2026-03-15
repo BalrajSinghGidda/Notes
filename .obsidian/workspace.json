@@ -184,11 +184,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "cff7e8fd77dde6c2",
