@@ -15,13 +15,25 @@
               "state": {
                 "file": "OS.canvas",
                 "viewState": {
-                  "x": 10519.429308511106,
-                  "y": 521.6574903983643,
-                  "zoom": -0.3263230426995446
+                  "x": 6985.223759083607,
+                  "y": 294.15255625260534,
+                  "zoom": 0.3608657772060915
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "OS"
+            }
+          },
+          {
+            "id": "7e1e58156d855e25",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-03-12 11.12.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-12 11.12.45.excalidraw"
             }
           }
         ]
@@ -195,8 +207,9 @@
   },
   "active": "509667e603dd53c2",
   "lastOpenFiles": [
-    "/OS.canvas",
+    "Drawing 2026-03-12 11.12.45.excalidraw.md",
     "OS.canvas",
+    "/OS.canvas",
     "WT.md",
     "Drawing 2026-02-17 13.04.12.excalidraw.md"
   ]
