@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cff7e8fd77dde6c2",
+            "id": "0373a47564381d5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bootstrapping.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bootstrapping"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2368593856559e8f",
@@ -190,13 +195,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cff7e8fd77dde6c2",
+  "active": "0373a47564381d5a",
   "lastOpenFiles": [
+    "WT.md",
+    "Bootstrapping.md",
     "Round Robbing CPU Scheduling.md",
     "OS.canvas",
     "DevTools.md",
     "DBMS.excalidraw.md",
-    "WT.md",
     "2026-02-16.md",
     "Charts making.excalidraw.md",
     "SRTF.svg",
@@ -206,7 +212,6 @@
     "software-architecture.excalidrawlib",
     "Untitled-2026-01-27-1234.excalidraw",
     "Drawing 2026-02-02 15.48.43.excalidraw.md",
-    "Untitled.md",
     "2026-02-02.md",
     "Untitled.base",
     "Welcome.md"
