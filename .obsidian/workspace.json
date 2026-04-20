@@ -11,14 +11,14 @@
             "id": "0373a47564381d5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AET.md",
-                "mode": "source",
-                "source": false
+                "aFile": "AET.md",
+                "bFile": "AET.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "AET"
+              "icon": "diff",
+              "title": "Diff: AET  (Working Tree)"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "0373a47564381d5a",
   "lastOpenFiles": [
+    "AET.md",
     "Bootstrapping.md",
     "WT.md",
     "Round Robbing CPU Scheduling.md",

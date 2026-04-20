@@ -78,5 +78,13 @@ API types-
 	- enable flexible fetching.
 	- client decides data structure.
 
-### Middleware
+### Mobile app dev
+- Involves designing and building apps that run on mobile devices such as smartphones and tablets. These apps are of 2 types:
+	- Native- Built for a specific platform, either for Android or iOS.
+	- Cross-platform- Write Once, Run Anywhere software.
+- Flutter- it is an open source toolkit by google used to build cross platform app using a single code base.
+	- Single codebase for Android, iOS and then some.
+	- Rich ui components.
+	- Uses dart programming language.
+	- High performance.
 - 
