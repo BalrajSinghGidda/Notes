@@ -2,7 +2,7 @@
 
 ## CIA
 
-- C- Confidentialily
+- C- Confidentiality
 - I-
 - A-
 
@@ -18,7 +18,7 @@
 - RSA exchange
 -
 
-## Cryptopgraphy
+## Cryptography
 
 ### Encryption standards
 
@@ -56,3 +56,27 @@
 	- Component based.
 	- Made by Meta.
 	- Uses virtual DOM.
+- AngularJS-
+	- Developed by Google.
+	- Full framework based.
+- ViewJS-
+	- Light and easy to use.
+	- Combines features from AngularJS and ReactJS.
+
+### backend frameworks
+
+> backend handles business logic, authentication, API creation.
+
+- ExpressJS- framework for backend.
+- NodeJS- backend stack handling.
+
+API types-
+- rest API-
+	- uses HTTP method.
+	- is stateless.
+- graphQL API-
+	- enable flexible fetching.
+	- client decides data structure.
+
+### Middleware
+- 
